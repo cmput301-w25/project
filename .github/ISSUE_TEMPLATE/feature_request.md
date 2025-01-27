@@ -6,7 +6,8 @@ labels: feature
 ---
 
 **Description**
-Brief overview of the feature
+
+- Brief overview of the feature
 
 **Acceptance Criteria**
 
@@ -15,7 +16,9 @@ Brief overview of the feature
 - [ ] Given [context], when [action], then [expected result]
 
 **UI/UX**
-Mockups or description of interface changes (if applicable)
+
+- Mockups or description of interface changes (if applicable)
 
 **Technical Notes**
-Key implementation details or architectural considerations
+
+- Key implementation details or architectural considerations

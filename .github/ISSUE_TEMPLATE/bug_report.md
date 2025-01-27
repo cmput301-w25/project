@@ -6,7 +6,8 @@ labels: bug
 ---
 
 **Description**
-[What's broken and where]
+
+- [What's broken and where]
 
 **Steps to Reproduce**
 
@@ -20,7 +21,9 @@ labels: bug
 - Actually: [Current behavior]
 
 **Priority**
-[High/Medium/Low]
+
+- [High/Medium/Low]
 
 **Notes**
-[Screenshots, error messages, device info if relevant]
+
+- [Screenshots, error messages, device info if relevant]
