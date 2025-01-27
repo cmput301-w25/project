@@ -9,11 +9,11 @@ labels: story
 
 - As a [user], I want [capability]
 
-**Tasks**
+**Requirements**
 
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
+- [ ] Requirement 1
+- [ ] Requirement 2
+- [ ] Requirement 3
 
 **Acceptance Criteria**
 
