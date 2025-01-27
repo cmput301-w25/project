@@ -6,7 +6,8 @@ labels: story
 ---
 
 **Story**
-As a [user], I want [capability]
+
+- As a [user], I want [capability]
 
 **Tasks**
 
